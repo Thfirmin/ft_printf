@@ -31,3 +31,4 @@ Go to [ft_printf Wiki][wiki].
 <img height="100" width="200" src="https://github.com/Thfirmin/Thfirmin/blob/main/srcs/42_badges/42rio_logo.svg">
 
 <!-- Links -->
+[wiki]:<https://github.com/Thfirmin/ft_printf/wiki>
