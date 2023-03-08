@@ -20,6 +20,9 @@ a function that will mimic the original printf().
 
 Version: `9.2`
 
+--- 
+
+<!-- Implementations -->
 ## TODO
 
 <!-- Footer -->
