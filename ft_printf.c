@@ -6,7 +6,7 @@
 /*   By: thfirmin <thiagofirmino2001@gmail.com>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/06 18:21:13 by thfirmin          #+#    #+#             */
-/*   Updated: 2022/11/07 18:41:43 by thfirmin         ###   ########.fr       */
+/*   Updated: 2023/03/08 13:18:06 by thfirmin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,5 +62,3 @@ static int	ft_putformatted_fd(char mask, va_list *ap, int fd)
 	}
 	return (len);
 }
-
-//cspdiuxX%
